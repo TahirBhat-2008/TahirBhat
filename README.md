@@ -8,3 +8,14 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahir&layout=compact&theme=tokyonight"/>
 </p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux"/>
+</p>
+snake.yml
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
