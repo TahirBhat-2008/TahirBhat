@@ -14,9 +14,9 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux"/>
 </p>
-snake.yml
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/TahirBhat-2008/TahirBhat-2008/output/github-contribution-grid-snake.svg"/>
 </p>
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-<img src="https://github-readme-stats.vercel.app/api?username=TahirBhat-2008&show_icons=true&theme=tokyonight"/>
+
