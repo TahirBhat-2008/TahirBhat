@@ -1,93 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Hi%20There,%20I'm%20Tahir%20Bhat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00E5&height=220&section=header&text=Hey,%20I'm%20Tahir%20Bhat%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20•%20Python%20Developer%20•%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;B.Tech+CSE+Student;Python+Developer;Learning+C+and+C%2B%2B;AI+%26+ML+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;B.Tech+CSE+Student+%F0%9F%8E%93;Python+%7C+C+%7C+C%2B%2B+Developer;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+learning+something+new" />
 
 <br/>
 
-<a href="https://github.com/TahirBhat-2008">
-  <img src="https://komarev.com/ghpvc/?username=TahirBhat-2008&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-</a>
-<img src="https://img.shields.io/badge/Status-Available-00F7FF?style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/TahirBhat-2008?style=for-the-badge&color=00F7FF&labelColor=black" />
+[![GitHub followers](https://img.shields.io/github/followers/TahirBhat-2008?style=for-the-badge&color=8A2BE2&labelColor=black&logo=github)](https://github.com/TahirBhat-2008)
+[![Profile Views](https://komarev.com/ghpvc/?username=TahirBhat-2008&color=00F7FF&style=for-the-badge&label=Profile+Views)](https://github.com/TahirBhat-2008)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Collab-brightgreen?style=for-the-badge&logo=statuspage)
 
 </div>
 
-<br/>
+&nbsp;
 
-## 🚀 About Me
+<div align="center">
+
+### 🧑‍💻 About Me
+
+</div>
+
+<table align="center">
+<tr>
+<td width="55%">
 
 ```python
 class Tahir:
     def __init__(self):
-        self.name = "Tahir Bhat"
-        self.role = "B.Tech CSE Student"
-        self.location = "India 🇮🇳"
+        self.name     = "Tahir Bhat"
+        self.role     = "B.Tech CSE Student"
+        self.base     = "India 🇮🇳"
         self.learning = ["C", "C++", "Python", "DSA"]
-        self.interests = ["AI", "Machine Learning", "Problem Solving"]
+        self.focus    = ["AI", "Machine Learning"]
 
     def say_hi(self):
-        print("Thanks for stopping by — let's build something!")
+        print("Thanks for stopping by ✨")
+        print("Let's build something cool!")
 
 me = Tahir()
 me.say_hi()
 ```
 
-- 🎓 B.Tech Computer Science Student
-- 🌱 Currently sharpening **C, C++, Python & DSA**
-- 🤖 Diving into **Artificial Intelligence & Machine Learning**
-- 💻 Enjoy building projects and solving coding problems
-- 📫 Reach me on the links below
+</td>
+<td width="45%" valign="top">
 
-<br/>
+- 🎓 &nbsp;B.Tech Computer Science student
+- 🌱 &nbsp;Sharpening **C, C++, Python & DSA**
+- 🤖 &nbsp;Exploring **AI & Machine Learning**
+- 🛠️ &nbsp;Building projects, solving problems
+- ⚡ &nbsp;Fun fact: I debug faster than I sleep
+- 📫 &nbsp;Reach me via the links down below
 
-## 🛠 Tech Stack
+</td>
+</tr>
+</table>
+
+&nbsp;
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux,html,css&theme=dark&perline=9" />
+### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux,html,css&theme=dark&perline=9"/>
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
+&nbsp;
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TahirBhat-2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TahirBhat-2008&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+### 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TahirBhat-2008&theme=tokyonight&hide_border=true" width="80%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TahirBhat-2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TahirBhat-2008&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TahirBhat-2008&theme=tokyonight&hide_border=true&border_radius=12" width="80%"/>
 
 </div>
 
-<br/>
-
-## 🏆 GitHub Trophies
+&nbsp;
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TahirBhat-2008&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=10&animation=table-heartbeat" />
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=TahirBhat-2008&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=10&animation=table-heartbeat"/>
 
 </div>
 
-<br/>
-
-## 📈 Contribution Activity
+&nbsp;
 
 <div align="center">
+
+### 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TahirBhat-2008&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
+&nbsp;
 
 <div align="center">
+
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahirBhat-2008/TahirBhat-2008/output/github-contribution-grid-snake-dark.svg" />
@@ -97,62 +112,29 @@ me.say_hi()
 
 </div>
 
-<br/>
-
-## 🌐 Connect with Me
+&nbsp;
 
 <div align="center">
 
-<a href="https://github.com/TahirBhat-2008">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+### 🌐 Connect with Me
 
-<!-- Add more links below the same way, e.g. LinkedIn, Twitter, Instagram -->
-<!--
-<a href="https://linkedin.com/in/your-handle">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TahirBhat-2008)
+
+<!-- Add more badges once you have the links, e.g.:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 -->
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:8A2BE2,100:00F7FF&height=120&section=footer" width="100%"/>
 
 <div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer" width="100%"/>
 
 ⭐️ From [TahirBhat-2008](https://github.com/TahirBhat-2008) — thanks for visiting!
 
 </div>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: TahirBhat-2008
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push generated SVGs to the `output` branch
-        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
